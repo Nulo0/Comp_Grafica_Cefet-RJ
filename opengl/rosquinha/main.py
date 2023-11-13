@@ -1,3 +1,7 @@
+"""
+Grupo: Daniel Pedro, Gabriel Alves, Vinícius Alves
+"""
+
 import ctypes
 import math
 from array import array
@@ -5,6 +9,7 @@ from array import array
 import glfw
 import glm
 import thorus_geometry
+
 from OpenGL import GL
 
 VERTEX_SHADER = """

@@ -1,9 +1,15 @@
-from OpenGL import GL
-from array import array
+"""
+Grupo: Daniel Pedro, Gabriel Alves, Vinícius Alves
+"""
+
 import ctypes
+import math
+from array import array
+
 import glfw
 import glm
-import math
+
+from OpenGL import GL
 
 VERTEX_SHADER = """
 #version 400

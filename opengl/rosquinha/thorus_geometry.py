@@ -1,3 +1,7 @@
+"""
+Grupo: Daniel Pedro, Gabriel Alves, Vinícius Alves
+"""
+
 import array
 import math
 
