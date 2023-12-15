@@ -1,3 +1,4 @@
+// Grupo: Vinícius Alves, Gabriel Alves, Larissa Coelho, Daniel Pedro
 var slider;
 var angle = 0;
 function setup() {

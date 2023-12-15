@@ -1,3 +1,4 @@
+// Grupo: Vinícius Alves, Gabriel Alves, Larissa Coelho, Daniel Pedro
 let radius = 250; // Definindo raio do círculo como 250
 let numPoints = 60; //Definindo o numero de pontos ou marcações no círculo, vão ser usadso para representar os segundos e os risquinhos do relogio
 

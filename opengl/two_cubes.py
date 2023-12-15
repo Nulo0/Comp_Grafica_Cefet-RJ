@@ -1,5 +1,5 @@
 """
-Grupo: Daniel Pedro, Gabriel Alves, Vinícius Alves
+Grupo: Daniel Pedro, Gabriel Alves, Vinícius Alves, Larissa Coelho
 """
 
 import ctypes
